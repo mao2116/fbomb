@@ -17,7 +17,7 @@
 * `cd fbomb`
 * `ls`
 * `python fbomb.py`
-```
+
 
 
 ## INSTALLATION []:
