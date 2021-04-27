@@ -5,7 +5,7 @@
 
 ### Facebook :
 <p align="center"> 
-<a href="https://rebrand.ly/noobhackers"><img title="FaceBook" src="https://img.shields.io/badge/FB-Ekramul Hassan-lightgrey?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/ekramul.hassan.79827"><img title="FaceBook" src="https://img.shields.io/badge/FB-Ekramul Hassan-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
 
 ## INSTALLATION  :
