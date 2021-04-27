@@ -10,11 +10,11 @@
 * `pkg install python -y`
 * `pkg install python2 -y`
 * `pkg install git -y`
-* `pip install lolcat`
-* ` git clone https://github.com/noob-hackers/T-LOAD`
+* `pip install requests`
+* ` git clone https://github.com/mao2116/fbomb`
 * `cd $HOME`
 * `ls`
-* `cd T-LOAD`
+* `cd fbomb`
 * `ls`
-* `bash t-load.sh`
+* `python fbomb.py`
 ```
