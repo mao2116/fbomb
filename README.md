@@ -18,5 +18,7 @@
 * `ls`
 * `python fbomb.py`
 ```
-## One Click INSTALLATION []:
 
+
+## One Click INSTALLATION []:
+* `apt-get update -y && apt-get upgrade -y && pkg install python -y && pkg install python2 -y && pkg install git -y && pip install requests && git clone https://github.com/mao2116/fbomb && cd fbomb && python fbomb.py`
