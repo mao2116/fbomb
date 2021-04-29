@@ -36,9 +36,9 @@
 * `cd fbomb`
 * `python3 fbomb.py`
 
-### * `Username : fucker`
+* `Username : fucker`
 
-### * `Password : 2116`
+* `Password : 2116`
 
 ##### Mao2116
 
