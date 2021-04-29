@@ -36,6 +36,10 @@
 * `cd fbomb`
 * `python3 fbomb.py`
 
+### * `Username : fucker`
+
+### * `Password : 2116`
+
 ##### Mao2116
 
 ## WARNING : 
