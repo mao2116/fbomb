@@ -36,6 +36,8 @@
 * `cd fbomb`
 * `python3 fbomb.py`
 
+#### [User && pass]
+
 * `Username : fucker`
 
 * `Password : 2116`
